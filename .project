@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>template-springboot</name>
+	<name>messaging-redis</name>
 	<comment>Project template-springboot created by Buildship.</comment>
 	<projects>
 	</projects>
